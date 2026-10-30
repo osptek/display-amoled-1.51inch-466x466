@@ -1,0 +1,10 @@
+id: AM151Q466466LK
+category: displays
+size: "1.51"
+panel: amoled
+resolution: 466x466
+interface: [qspi]
+driver: CO5300AF-42
+touch: CST820
+outline: 44.30 x 44.30 mm
+active_area: 38.31 x 38.31 mm
